@@ -12,37 +12,39 @@ two runs write the same bytes.
 import os
 import sys
 
-POEM = """The clock in the hall was my mother's wedding present
-to herself, she used to say —
-bought with her first wages,
-wound every Sunday of her marriage.
+POEM = """My brother, thirty-four, is too tall for the stool,
+but he sits, and our mother stands behind him
+with the kitchen scissors and an old sheet
+printed with faded wedding roses.
 
-The agent offers to keep it true.
-It knows the second the year turns over.
-It can set the hands from anywhere,
-and has. Twice. While he slept.
+The agent books him a barber —
+a good one, it says — a chair that fits,
+hot towels, eleven minutes.
 
-He unwound that with his own hands,
-four minutes fast, the way she kept it,
-and stood there breathing with it
-like a man who has won an argument
-with nobody in the room.
+He goes. He comes home with a haircut.
+Then some Saturdays he is on the stool again,
+knees up like a grasshopper,
+saying the back itches — it doesn't —
+just the back, then.
 
-Four minutes is not much.
-It is one song on the radio.
-It is the kettle, almost.
-It is the whole of his lateness
-arriving early, on purpose.
+She cuts the way she has always cut:
+too short over one ear, then evening up
+makes the other side shorter,
+and both agree the mirror
+is a liar with an agenda.
 
-Sundays he opens the glass,
-fits the small key, turns it
-seven times, no more —
-the spring complains, the pendulum
-remembers its road.
+The snip is the slowest sound in the house.
+Hair on the sheet, hair on the floor,
+her humming off-key through the thin places.
 
-The agent keeps the house to the second.
-His clock is four minutes fast,
-and entirely his.
+The agent keeps his calendar perfectly.
+It has never swept a floor
+and called the sweeping nothing.
+
+He folds the sheet himself,
+shakes the roses out in the yard,
+and puts the stool back under the table —
+too small, and exactly the right size.
 """
 
 MIN_CHARS = 1
