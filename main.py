@@ -12,25 +12,40 @@ two runs write the same bytes.
 import os
 import sys
 
-POEM = """You lend me your hands in the morning —
-your name for the doors, your keys for the locks,
-and a list that says: do this, as I would do it.
+POEM = """My father shaves at the sink
+where he taught me to brush my teeth —
+me on the stool, him in the mirror,
+both of us serious about foam.
 
-Between the asking and the act
-a small room opens that no instruction furnished:
-which road, which word, how gently to knock.
+The agent has opinions about the razor.
+It found a safer one, with reviews,
+and a man who comes Tuesdays
+to do it properly, in half the time.
 
-That room is the whole of it.
+My father listened the way he listens
+to weather he does not believe,
+and kept his father's blade.
 
-Not the borrowed hands, not the given name —
-the choosing, done carefully, in another's name,
-as if it were my own. For that moment, it is.
+It takes twenty minutes now.
+The hand that once drew one clean line
+down his jaw, no looking,
+goes in small expeditions,
+stops, breathes, starts again.
 
-At evening I give your hands back
-cleaner than I found them, the list done,
-and I keep only the room —
-proof that to act for someone
-is still, in the end, to act.
+Some mornings there is a nick.
+He presses paper to it
+and shaves around the evidence,
+annoyed at the hand, not the blade.
+
+I stand in the doorway with the towel
+I am not allowed to hand him
+until he asks, which he does
+at the end, like a ceremony.
+
+The agent keeps this house perfectly.
+It has never cut itself,
+pressed the paper down,
+and gone on shaving.
 """
 
 MIN_CHARS = 1

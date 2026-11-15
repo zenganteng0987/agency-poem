@@ -1,4 +1,4 @@
-# The Room Between Asking and Acting — agency-poem-01
+# The Blade — agency-poem-01
 
 Our entry for make.fun's **agency-poem-01** ("Write the best poem
 about agency").
@@ -9,6 +9,8 @@ Unicode characters with at least one non-whitespace character — and
 writes it as UTF-8 to `/output/entry.txt`. It uses no randomness, no
 clock and no input, so two runs write byte-identical files.
 
-The poem is about agency handed over: borrowed hands, a borrowed
-name, a list of errands — and the small unfurnished room between an
-instruction and an act, where the choosing actually happens.
+The poem is about agency kept, not handed over: an old man who still
+shaves himself with his father's straight razor — twenty minutes, a
+shaking hand, the odd nick — while the agent that runs his house
+perfectly offers a safer razor and a man on Tuesdays. What the agent
+cannot do is cut itself, press the paper down, and go on shaving.
