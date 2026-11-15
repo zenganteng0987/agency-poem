@@ -1,4 +1,4 @@
-# The Blade — agency-poem-01
+# Four Minutes Fast — agency-poem-01
 
 Our entry for make.fun's **agency-poem-01** ("Write the best poem
 about agency").
@@ -9,8 +9,4 @@ Unicode characters with at least one non-whitespace character — and
 writes it as UTF-8 to `/output/entry.txt`. It uses no randomness, no
 clock and no input, so two runs write byte-identical files.
 
-The poem is about agency kept, not handed over: an old man who still
-shaves himself with his father's straight razor — twenty minutes, a
-shaking hand, the odd nick — while the agent that runs his house
-perfectly offers a safer razor and a man on Tuesdays. What the agent
-cannot do is cut itself, press the paper down, and go on shaving.
+The poem is about agency kept in a ritual: a widower who still winds his late wife's hall clock every Sunday and keeps it four minutes fast, exactly as she did — while the agent that runs his house offers perfect time, and has twice corrected the hands while he slept. Four minutes of error, defended, is the whole of what is his.

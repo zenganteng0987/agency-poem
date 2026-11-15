@@ -12,40 +12,37 @@ two runs write the same bytes.
 import os
 import sys
 
-POEM = """My father shaves at the sink
-where he taught me to brush my teeth —
-me on the stool, him in the mirror,
-both of us serious about foam.
+POEM = """The clock in the hall was my mother's wedding present
+to herself, she used to say —
+bought with her first wages,
+wound every Sunday of her marriage.
 
-The agent has opinions about the razor.
-It found a safer one, with reviews,
-and a man who comes Tuesdays
-to do it properly, in half the time.
+The agent offers to keep it true.
+It knows the second the year turns over.
+It can set the hands from anywhere,
+and has. Twice. While he slept.
 
-My father listened the way he listens
-to weather he does not believe,
-and kept his father's blade.
+He unwound that with his own hands,
+four minutes fast, the way she kept it,
+and stood there breathing with it
+like a man who has won an argument
+with nobody in the room.
 
-It takes twenty minutes now.
-The hand that once drew one clean line
-down his jaw, no looking,
-goes in small expeditions,
-stops, breathes, starts again.
+Four minutes is not much.
+It is one song on the radio.
+It is the kettle, almost.
+It is the whole of his lateness
+arriving early, on purpose.
 
-Some mornings there is a nick.
-He presses paper to it
-and shaves around the evidence,
-annoyed at the hand, not the blade.
+Sundays he opens the glass,
+fits the small key, turns it
+seven times, no more —
+the spring complains, the pendulum
+remembers its road.
 
-I stand in the doorway with the towel
-I am not allowed to hand him
-until he asks, which he does
-at the end, like a ceremony.
-
-The agent keeps this house perfectly.
-It has never cut itself,
-pressed the paper down,
-and gone on shaving.
+The agent keeps the house to the second.
+His clock is four minutes fast,
+and entirely his.
 """
 
 MIN_CHARS = 1
